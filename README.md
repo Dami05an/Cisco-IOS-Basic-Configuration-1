@@ -41,7 +41,7 @@ The lab uses the following equipment:
 
 ### Network Diagram
 
-![Network Topology](Topology/network-topology.png)
+![Network Topology](topology.png)
 
 ## 4. Commands Practiced
 
