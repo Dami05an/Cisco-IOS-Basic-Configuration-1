@@ -35,7 +35,7 @@ The lab uses the following equipment:
 
 | Device | Description |
 |---|---|
-| Switch 0 | Cisco Catalyst 2960 Switch |
+| Switch0 | Cisco Catalyst 2960 Switch |
 | PC0 | Computer used for console access and network testing |
 | PC1 | Computer connected to the switch |
 
